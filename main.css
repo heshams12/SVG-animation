@@ -1,0 +1,109 @@
+.st0 {
+    fill: #465380;
+}
+
+.st1 {
+    fill: #DFDFDF;
+}
+
+.st2 {
+    fill: #8098EB;
+}
+
+.st3 {
+    fill: #56669E;
+}
+
+.st4 {
+    fill: #797979;
+}
+
+.st5 {
+    fill: #A6A6A6;
+}
+
+.st6 {
+    enable-background: new;
+}
+
+.st7 {
+    clip-path: url(#SVGID_2_);
+    enable-background: new;
+}
+
+.st8 {
+    fill: #7E7E7E;
+}
+
+.st9 {
+    fill: #838383;
+}
+
+.st10 {
+    fill: #888888;
+}
+
+.st11 {
+    fill: #8C8C8C;
+}
+
+.st12 {
+    fill: #919191;
+}
+
+.st13 {
+    fill: #969696;
+}
+
+body,
+html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+    background: #0E0012 url(bg.svg) no-repeat;
+    -webkit-background-size: cover;
+    /* For WebKit*/
+    -moz-background-size: cover;
+    /* Mozilla*/
+    -o-background-size: cover;
+    /* Opera*/
+    background-size: cover;
+    /* Generic*/
+    width: 100%;
+    display: grid;
+    grid-template-columns: auto;
+}
+
+svg {
+    width: 400px;
+    align-self: center;
+    justify-self: center;
+    margin-left: 500px;
+}
+
+svg:hover #Logo {
+animation-duration: 1.2s;
+animation-name: animateLogo;
+animation-iteration-count: infinite;
+animation-direction: alternate;
+mix-blend-mode: screen;
+}
+
+#Logo {
+    opacity: 0;
+}
+
+@keyframes animateLogo {
+    from {
+        transform: translateX(10) translateY(0);
+        opacity: 0;
+    }
+    to {
+        transform: translateX(105px) translateY(-85px);
+        opacity: 1;
+    }
+}

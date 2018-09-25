@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Web_1920_1);
+      }
+
+      .cls-2 {
+        fill: #2e2727;
+      }
+
+      .cls-3, .cls-5, .cls-6 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        fill: #4e4545;
+      }
+
+      .cls-5 {
+        font-size: 67px;
+      }
+
+      .cls-5, .cls-6, .cls-8 {
+        font-family: Rift-Medium, Rift;
+        font-weight: 500;
+      }
+
+      .cls-6 {
+        font-size: 27px;
+        opacity: 0.94;
+      }
+
+      .cls-10, .cls-7 {
+        fill: none;
+      }
+
+      .cls-7 {
+        stroke: #7377e6;
+        stroke-linejoin: round;
+      }
+
+      .cls-8 {
+        fill: #7377e6;
+        font-size: 28px;
+      }
+
+      .cls-9 {
+        stroke: none;
+      }
+    </style>
+    <clipPath id="clip-Web_1920_1">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_1" data-name="Web 1920 – 1" class="cls-1">
+    <rect class="cls-3" width="1920" height="1080"/>
+    <g id="Group_2" data-name="Group 2">
+      <rect id="Rectangle_1" data-name="Rectangle 1" class="cls-2" width="1917" height="1080"/>
+      <g id="Group_1" data-name="Group 1" transform="translate(125 39)">
+        <rect id="Rectangle_3" data-name="Rectangle 3" class="cls-3" width="61.852" height="24.913" rx="12.456" transform="translate(35.221)"/>
+        <rect id="Rectangle_5" data-name="Rectangle 5" class="cls-3" width="61.852" height="24.913" rx="12.456" transform="translate(0 39.087)"/>
+        <rect id="Rectangle_4" data-name="Rectangle 4" class="cls-3" width="54.121" height="24.913" rx="12.456" transform="translate(21.477 20.617)"/>
+      </g>
+      <path id="Path_1" data-name="Path 1" class="cls-4" d="M4198,2009h752V926H4748s160,671.649-110,617.7S4198,2009,4198,2009Z" transform="translate(-3030 -929)"/>
+      <text id="online_banking_your_way." data-name="online banking your way." class="cls-5" transform="translate(125 372.78)"><tspan x="0" y="0">online banking your way.</tspan></text>
+      <text id="fee-free._100_secure._online_banking_just_like_it_should_be." data-name="fee-free. 100% secure. online banking just like it should be." class="cls-6" transform="translate(125 420.826)"><tspan x="0" y="0">fee-free. 100% secure. online banking just like it should be.</tspan></text>
+      <g id="Rectangle_2" data-name="Rectangle 2" class="cls-7" transform="translate(125 504)">
+        <rect class="cls-9" width="255" height="57" rx="16"/>
+        <rect class="cls-10" x="0.5" y="0.5" width="254" height="56" rx="15.5"/>
+      </g>
+      <text id="Sign_me_up" data-name="Sign me up" class="cls-8" transform="translate(253 543)"><tspan x="-52.08" y="0">Sign me up</tspan></text>
+    </g>
+  </g>
+</svg>
